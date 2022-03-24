@@ -43,7 +43,7 @@
   "prettier": "@meteorlxy/prettier-config",
   "dependencies": {
     "@types/showdown": "^1.9.4",
-    "showdown": "github:showdownjs/showdown#d02fe7caf913e08ae9a1132e8132badfed6f8f06",
+    "showdown": "github:jmverges/showdown#dd98303ce71a5ce692d9ddf9475b7bc2e575ad7b",
     "vue": "^3.0.0"
   },
   "devDependencies": {
